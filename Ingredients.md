@@ -1,0 +1,13 @@
+1 Cup Soyabean,
+Ginger/Garlic Paste,
+Salt,
+Red Chilli Powder,
+Black Pepper,
+Jeera Powder, 
+Dried Red Chilli,
+Saunf,
+Sabut Dhaniya,
+Jeera,
+Small Elaichi,
+Laung,
+Green Chilli
